@@ -1,3 +1,3 @@
 # oryantasyon_vize
-Merhaba ben Muhammet El-Neccar Yazılım Mühendisliği Öğrencisiyim
-Elim kanadığı için bu ödevi geç teslim ediyorum 
+Merhaba ben Muhammed ElNeccar Yazılım Mühendisliği Öğrencisiyim
+Bu kodları vize ödevi kapsamında hazırladım 
